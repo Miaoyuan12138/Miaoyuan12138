@@ -29,20 +29,46 @@ My work spans biomedical data integration, population-health modeling, scientifi
 * Responsible and interpretable AI
 * Embodied AI & robotics
 
-### Selected work
+## Selected Work
 
-**[Health Risk Modeling](https://github.com/Miaoyuan12138/health-risk-modeling)**
+### [Health Risk Modeling](https://github.com/Miaoyuan12138/health-risk-modeling)
+
 Geographic validation, data provenance, and uncertainty in county-level diabetes prediction.
 
-**[Personal Movement Atlas](https://github.com/Miaoyuan12138/Personal-Movement-Atlas)**
-A privacy-aware pipeline for Apple Watch, WHOOP, GPX, and personal movement data.
+### [Personal Movement Atlas](https://github.com/Miaoyuan12138/Personal-Movement-Atlas)
 
-**[MOP-ECDF](https://github.com/Miaoyuan12138/MOP-ECDF)**
+A privacy-aware pipeline integrating wearable, movement, recovery, and geospatial data.
+
+### [MOP-ECDF](https://github.com/Miaoyuan12138/MOP-ECDF)
+
 Experimental work on dictionary encoding, compact data representation, and ECDF approximation.
 
-### Tools
+## Collaborative Research
 
-`Python` · `R` · `SQL` · `PyTorch` · `scikit-learn` · `pandas` · `NumPy` · `RDKit` · `FastAPI` · `MySQL` · `Docker` · `Git`
+### [OED Data](https://github.com/le-yuan/OED_data)
+
+Collaborative research repository connected to my work on enzyme and biochemical data systems, including data integration, cleaning, validation, and analysis-ready dataset construction.
+
+### [EZSelectivity-DB](https://github.com/le-yuan/EZSelectivity-DB)
+
+Collaborative research repository related to enzyme selectivity and structured biochemical data, developed as part of my broader work on trustworthy enzyme-reaction datasets.
+
+My research in this area includes integrating heterogeneous biochemical sources, protein and reaction identifier mapping, molecular-data quality control, reaction representation, and preparing structured datasets for downstream analysis and machine learning.
+
+## Research Experience
+
+My broader research work has included:
+
+* integrating large-scale enzyme-reaction records across heterogeneous biochemical databases;
+* improving protein and reaction linkage through identifier normalization;
+* molecular quality control using RDKit, SMILES, fingerprints, and atom–atom mapping;
+* extracting structured kinetic and biochemical measurements from scientific literature;
+* studying data provenance, missingness, validation, and silent data-quality failures;
+* building reproducible scientific-data pipelines for downstream machine learning and analysis.
+
+## Tools
+
+`Python` · `R` · `SQL` · `C++` · `PyTorch` · `scikit-learn` · `pandas` · `NumPy` · `RDKit` · `FastAPI` · `MySQL` · `Docker` · `Git`
 
 ### Elsewhere
 
